@@ -36,7 +36,7 @@
     "file-loader": "^4.0.0",
     "html-loader": "^0.5.5",
     "loader": "^2.1.1",
-    "node-sass": "^4.12.0",
+    "node-sass": "^7.0.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-redux": "^7.1.0",
